@@ -31,7 +31,7 @@ def load_description(*args):
 
 
 NAME = "Skyforce"
-AUTHOR = "Aaron Ma"
+AUTHOR = "Aaron Ma, Jacob Fernandes"
 VERSION = "0.1.0"
 SHORT_DESCRIPTION = "Skyforce provides stable implementations of various Python functions."
 LONG_DESCRIPTION = load_description("README.md")
